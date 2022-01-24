@@ -13,7 +13,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="Rtlduino_pcb.svg">
+   sodipodi:docname="Weiba_2Way_pcb.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -64,7 +64,22 @@
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
@@ -168,7 +183,7 @@
          r="1.3832848" />
       <text
          xml:space="preserve"
-         style="font-size:2.5px;line-height:1.25;font-family:sans-serif;word-spacing:0px;stroke-width:0.264583"
+         style="font-size:2.5;line-height:1.25;font-family:sans-serif;word-spacing:0;stroke-width:0.264583"
          x="146.04489"
          y="104.4539"
          id="text1063"><tspan
