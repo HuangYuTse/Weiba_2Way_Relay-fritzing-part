@@ -157,7 +157,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:2.5px;line-height:1.25;font-family:sans-serif;word-spacing:0px;stroke-width:0.264583"
+       style="font-size:2.5;line-height:1.25;font-family:sans-serif;word-spacing:0;stroke-width:0.264583"
        x="111.63784"
        y="57.257996"
        id="text1063"><tspan
@@ -183,12 +183,12 @@
        x="161.64363"
        y="33.834682" />
     <path
-       style="opacity:1;fill:#1b4821;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="opacity:1;fill:#1b4821;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 157.09578,44.438152 4.548,0.988529 -1.5e-4,-11.591999 -4.54785,-0.301999 z"
        id="path1204"
        sodipodi:nodetypes="ccccc" />
     <path
-       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 157.27247,33.132642 v 0"
        id="path1206" />
     <rect
@@ -228,12 +228,12 @@
        x="161.64363"
        y="46.005527" />
     <path
-       style="opacity:1;fill:#bc3611;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="opacity:1;fill:#bc3611;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 157.09578,56.608993 4.548,0.988529 -1.5e-4,-11.591999 -4.54785,-0.301999 z"
        id="path1245"
        sodipodi:nodetypes="ccccc" />
     <path
-       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="opacity:1;fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 157.27247,45.303483 v 0"
        id="path1247" />
     <rect
@@ -461,7 +461,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:2.5px;line-height:1.25;font-family:sans-serif;word-spacing:0px;opacity:1;fill:#90bca3;fill-opacity:1;stroke-width:0.264583"
+       style="font-size:2.5;line-height:1.25;font-family:sans-serif;word-spacing:0;opacity:1;fill:#90bca3;fill-opacity:1;stroke-width:0.264583"
        x="117.11994"
        y="65.386475"
        id="text1453"><tspan
@@ -472,7 +472,7 @@
          style="fill:#90bca3;fill-opacity:1;stroke-width:0.264583">LOW   Level   Trigger</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:2.5px;line-height:1.25;font-family:sans-serif;word-spacing:0px;opacity:1;fill:#90bca3;fill-opacity:1;stroke-width:0.264583"
+       style="font-size:2.5;line-height:1.25;font-family:sans-serif;word-spacing:0;opacity:1;fill:#90bca3;fill-opacity:1;stroke-width:0.264583"
        x="-144.97394"
        y="-28.848919"
        id="text1457"
@@ -677,7 +677,7 @@
          y="31.331467" />
       <text
          xml:space="preserve"
-         style="font-size:3.95472px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#978e7d;fill-opacity:1;stroke-width:0.41854"
+         style="font-size:3.95472;line-height:1.25;font-family:sans-serif;word-spacing:0;fill:#978e7d;fill-opacity:1;stroke-width:0.41854"
          x="111.67946"
          y="34.949036"
          id="text1487"><tspan
@@ -688,7 +688,7 @@
            style="fill:#978e7d;fill-opacity:1;stroke-width:0.41854">Weiba</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:4.18174px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#9f9685;fill-opacity:1;stroke-width:0.442566"
+         style="font-size:4.18174;line-height:1.25;font-family:sans-serif;word-spacing:0;fill:#9f9685;fill-opacity:1;stroke-width:0.442566"
          x="110.00208"
          y="40.186123"
          id="text1491"
@@ -700,7 +700,7 @@
            style="fill:#9f9685;fill-opacity:1;stroke-width:0.442566">微  霸</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:2.5px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#9f9685;fill-opacity:1;stroke-width:0.264583"
+         style="font-size:2.5;line-height:1.25;font-family:sans-serif;word-spacing:0;fill:#9f9685;fill-opacity:1;stroke-width:0.264583"
          x="111.50838"
          y="44.479172"
          id="text1495"><tspan
@@ -711,7 +711,7 @@
            style="fill:#9f9685;fill-opacity:1;stroke-width:0.264583">+ 1 load 2 -</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:2.5px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#9f9685;fill-opacity:1;stroke-width:0.264583"
+         style="font-size:2.5;line-height:1.25;font-family:sans-serif;word-spacing:0;fill:#9f9685;fill-opacity:1;stroke-width:0.264583"
          x="127.56934"
          y="38.140427"
          id="text1499"><tspan
@@ -722,7 +722,7 @@
            style="fill:#9f9685;fill-opacity:1;stroke-width:0.264583">S.S.R</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:2.26263px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#9f9685;fill-opacity:1;stroke-width:0.239459"
+         style="font-size:2.26263;line-height:1.25;font-family:sans-serif;word-spacing:0;fill:#9f9685;fill-opacity:1;stroke-width:0.239459"
          x="162.49631"
          y="32.409885"
          id="text1503"
@@ -737,7 +737,7 @@
          transform="translate(-3.1750001,-15.875004)">
         <text
            xml:space="preserve"
-           style="font-size:2.41074px;line-height:1.25;font-family:sans-serif;letter-spacing:-0.00255136px;word-spacing:0px;fill:#9f9685;fill-opacity:1;stroke-width:0.255136"
+           style="font-size:2.41074;line-height:1.25;font-family:sans-serif;letter-spacing:-0.00255136;word-spacing:0;fill:#9f9685;fill-opacity:1;stroke-width:0.255136"
            x="167.5892"
            y="43.322544"
            id="text1507"
@@ -757,7 +757,7 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-size:2.72423px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#9f9685;fill-opacity:1;stroke-width:0.288316"
+         style="font-size:2.72423;line-height:1.25;font-family:sans-serif;word-spacing:0;fill:#9f9685;fill-opacity:1;stroke-width:0.288316"
          x="165.81229"
          y="36.927822"
          id="text1515"
@@ -787,7 +787,7 @@
          y="31.331467" />
       <text
          xml:space="preserve"
-         style="font-size:3.95472px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#978e7d;fill-opacity:1;stroke-width:0.41854"
+         style="font-size:3.95472;line-height:1.25;font-family:sans-serif;word-spacing:0;fill:#978e7d;fill-opacity:1;stroke-width:0.41854"
          x="111.67946"
          y="34.949036"
          id="text1059"><tspan
@@ -798,7 +798,7 @@
            style="fill:#978e7d;fill-opacity:1;stroke-width:0.41854">Weiba</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:4.18174px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#9f9685;fill-opacity:1;stroke-width:0.442566"
+         style="font-size:4.18174;line-height:1.25;font-family:sans-serif;word-spacing:0;fill:#9f9685;fill-opacity:1;stroke-width:0.442566"
          x="110.00208"
          y="40.186123"
          id="text1067"
@@ -810,7 +810,7 @@
            style="fill:#9f9685;fill-opacity:1;stroke-width:0.442566">微  霸</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:2.5px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#9f9685;fill-opacity:1;stroke-width:0.264583"
+         style="font-size:2.5;line-height:1.25;font-family:sans-serif;word-spacing:0;fill:#9f9685;fill-opacity:1;stroke-width:0.264583"
          x="111.50838"
          y="44.479172"
          id="text1071"><tspan
@@ -821,7 +821,7 @@
            style="fill:#9f9685;fill-opacity:1;stroke-width:0.264583">+ 1 load 2 -</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:2.5px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#9f9685;fill-opacity:1;stroke-width:0.264583"
+         style="font-size:2.5;line-height:1.25;font-family:sans-serif;word-spacing:0;fill:#9f9685;fill-opacity:1;stroke-width:0.264583"
          x="127.56934"
          y="38.140427"
          id="text1075"><tspan
@@ -832,7 +832,7 @@
            style="fill:#9f9685;fill-opacity:1;stroke-width:0.264583">S.S.R</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:2.26263px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#9f9685;fill-opacity:1;stroke-width:0.239459"
+         style="font-size:2.26263;line-height:1.25;font-family:sans-serif;word-spacing:0;fill:#9f9685;fill-opacity:1;stroke-width:0.239459"
          x="162.49631"
          y="32.409885"
          id="text1079"
@@ -847,7 +847,7 @@
          transform="translate(-3.1750001,-15.875004)">
         <text
            xml:space="preserve"
-           style="font-size:2.41074px;line-height:1.25;font-family:sans-serif;letter-spacing:-0.00255136px;word-spacing:0px;fill:#9f9685;fill-opacity:1;stroke-width:0.255136"
+           style="font-size:2.41074;line-height:1.25;font-family:sans-serif;letter-spacing:-0.00255136;word-spacing:0;fill:#9f9685;fill-opacity:1;stroke-width:0.255136"
            x="167.5892"
            y="43.322544"
            id="text1083"
@@ -867,7 +867,7 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-size:2.72423px;line-height:1.25;font-family:sans-serif;word-spacing:0px;fill:#9f9685;fill-opacity:1;stroke-width:0.288316"
+         style="font-size:2.72423;line-height:1.25;font-family:sans-serif;word-spacing:0;fill:#9f9685;fill-opacity:1;stroke-width:0.288316"
          x="165.81229"
          y="36.927822"
          id="text1089"
