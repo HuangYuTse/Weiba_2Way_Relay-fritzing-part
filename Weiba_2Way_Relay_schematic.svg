@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="109.765mm"
+   height="115.32914mm"
+   viewBox="0 0 109.765 115.32914"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="Weiba_2Way_Relay_schematic.svg">
+  <defs
+     id="defs2">
+    <rect
+       x="90.752083"
+       y="62.885414"
+       width="50.535416"
+       height="33.337502"
+       id="rect857" />
+    <rect
+       x="97.102081"
+       y="65.266663"
+       width="3.96875"
+       height="12.170833"
+       id="rect851" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4118735"
+     inkscape:cx="252.82365"
+     inkscape:cy="243.77421"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1904"
+     inkscape:window-height="1001"
+     inkscape:window-x="-8"
+     inkscape:window-y="12"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-60.980666,-45.966664)">
+    <rect
+       style="opacity:0.998;fill:none;stroke:#000000;stroke-width:0.534704;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect24"
+       width="86.667297"
+       height="114.79443"
+       x="72.513145"
+       y="46.234016" />
+    <text
+       xml:space="preserve"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="137.90642"
+       y="62.174034"
+       id="use899"
+       inkscape:tile-x0="72.158634"
+       inkscape:tile-y0="20.706412"><tspan
+         sodipodi:role="line"
+         id="tspan991"
+         x="137.90642"
+         y="62.174034"
+         style="font-size:5;stroke-width:0.264583">CH 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="137.90642"
+       y="83.852386"
+       id="use905"
+       inkscape:tile-x0="72.158634"
+       inkscape:tile-y0="20.706412"><tspan
+         sodipodi:role="line"
+         id="tspan1003"
+         x="137.90642"
+         y="83.852386"
+         style="font-size:5;stroke-width:0.264583">CH 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="137.90642"
+       y="127.20908"
+       id="use917"
+       inkscape:tile-x0="72.158634"
+       inkscape:tile-y0="20.706412"><tspan
+         sodipodi:role="line"
+         id="tspan1027"
+         x="137.90642"
+         y="127.20908"
+         style="font-size:5;stroke-width:0.264583">DC -</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="137.90642"
+       y="148.88742"
+       id="use923"
+       inkscape:tile-x0="72.158634"
+       inkscape:tile-y0="20.706412"><tspan
+         sodipodi:role="line"
+         id="tspan1039"
+         x="137.90642"
+         y="148.88742"
+         style="font-size:5;stroke-width:0.264583">DC +</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="75.506126"
+       y="62.174034"
+       id="text1053"
+       inkscape:tile-x0="72.158634"
+       inkscape:tile-y0="20.706412"><tspan
+         sodipodi:role="line"
+         id="tspan1051"
+         x="75.506126"
+         y="62.174034"
+         style="font-size:5;stroke-width:0.264583">1 A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="75.506126"
+       y="83.852386"
+       id="text1065"
+       inkscape:tile-x0="72.158634"
+       inkscape:tile-y0="20.706412"><tspan
+         sodipodi:role="line"
+         id="tspan1063"
+         x="75.506126"
+         y="83.852386"
+         style="font-size:5;stroke-width:0.264583">1 B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="75.506126"
+       y="127.20908"
+       id="text1089"
+       inkscape:tile-x0="72.158634"
+       inkscape:tile-y0="20.706412"><tspan
+         sodipodi:role="line"
+         id="tspan1087"
+         x="75.506126"
+         y="127.20908"
+         style="font-size:5;stroke-width:0.264583">2 A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="75.506126"
+       y="148.88742"
+       id="text1101"
+       inkscape:tile-x0="72.158634"
+       inkscape:tile-y0="20.706412"><tspan
+         sodipodi:role="line"
+         id="tspan1099"
+         x="75.506126"
+         y="148.88742"
+         style="font-size:5;stroke-width:0.264583">2 B</tspan></text>
+    <rect
+       style="opacity:0.998;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.276813;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="use1113"
+       width="11.565"
+       height="1"
+       x="159.18045"
+       y="59.858849"
+       inkscape:tile-x0="90.388782"
+       inkscape:tile-y0="14.419001" />
+    <rect
+       style="opacity:0.998;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.276813;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="use1117"
+       width="11.565"
+       height="1"
+       x="159.18045"
+       y="81.53476"
+       inkscape:tile-x0="90.388782"
+       inkscape:tile-y0="14.419001" />
+    <rect
+       style="opacity:0.998;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.276813;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="use1129"
+       width="11.565"
+       height="1"
+       x="159.18045"
+       y="124.89146"
+       inkscape:tile-x0="90.388782"
+       inkscape:tile-y0="14.419001" />
+    <rect
+       style="opacity:0.998;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.276813;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="use1135"
+       width="11.565"
+       height="1"
+       x="159.18045"
+       y="146.56979"
+       inkscape:tile-x0="90.388782"
+       inkscape:tile-y0="14.419001" />
+    <rect
+       style="opacity:0.998;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.276813;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="use1184"
+       width="11.565"
+       height="1"
+       x="60.980667"
+       y="59.858849"
+       inkscape:tile-x0="90.388782"
+       inkscape:tile-y0="14.419001" />
+    <rect
+       style="opacity:0.998;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.276813;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="use1188"
+       width="11.565"
+       height="1"
+       x="60.980667"
+       y="81.53476"
+       inkscape:tile-x0="90.388782"
+       inkscape:tile-y0="14.419001" />
+    <rect
+       style="opacity:0.998;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.276813;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="use1200"
+       width="11.565"
+       height="1"
+       x="60.980667"
+       y="124.89146"
+       inkscape:tile-x0="90.388782"
+       inkscape:tile-y0="14.419001" />
+    <rect
+       style="opacity:0.998;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.276813;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="use1206"
+       width="11.565"
+       height="1"
+       x="60.980667"
+       y="146.56979"
+       inkscape:tile-x0="90.388782"
+       inkscape:tile-y0="14.419001" />
+    <text
+       xml:space="preserve"
+       style="font-size:10;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="96.361107"
+       y="90.247322"
+       id="text930"><tspan
+         sodipodi:role="line"
+         id="tspan928"
+         x="96.361107"
+         y="90.247322"
+         style="font-size:10;stroke-width:0.264583">Weiba</tspan><tspan
+         sodipodi:role="line"
+         x="96.361107"
+         y="102.74732"
+         style="font-size:10;stroke-width:0.264583"
+         id="tspan925">2Way</tspan><tspan
+         sodipodi:role="line"
+         x="96.361107"
+         y="115.24732"
+         style="font-size:10;stroke-width:0.264583"
+         id="tspan927">Relay</tspan></text>
+  </g>
+</svg>
